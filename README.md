@@ -3,7 +3,7 @@ Repository for the article "An Experimental Study of LLM-Assisted Learning in an
 
 El repositorio incluye los siguientes archivos: 
 
-* Descripción de la actividad y rúbrica de evaluación: [Descripción y Rúbrica de evaluación - Actividad complementaria SAM 2025.pdf](https://github.com/gcapde/eval_NotebookLM_URUCON2026/tree/main/Descripción y Rúbrica de evaluación - Actividad complementaria SAM 2025.pdf).
-* Plantilla para el reporte: [Plantilla para informe - Actividad complementaria SAM 2025.pdf](https://github.com/gcapde/eval_NotebookLM_URUCON2026/tree/main/Plantilla para informe - Actividad complementaria SAM 2025.pdf).
-* Lista de preguntas y videos asociados: [Lista de preguntas y videos asociados - Actividad complementaria SAM 2025.pdf](https://github.com/gcapde/eval_NotebookLM_URUCON2026/tree/main/Lista de preguntas y videos asociados - Actividad complementaria SAM 2025.pdf).
-* Carpeta con todos los reportes para cada una de las preguntas: [reports](https://github.com/gcapde/eval_NotebookLM_URUCON2026/tree/main/reports).
+* Descripción de la actividad y rúbrica de evaluación: [Descripción y Rúbrica de evaluación - Actividad complementaria SAM 2025.pdf](https://github.com/gcapde/eval_NotebookLM_URUCON2026/blob/main/Descripción y Rúbrica de evaluación - Actividad complementaria SAM 2025.pdf).
+* Plantilla para el reporte: [Plantilla para informe - Actividad complementaria SAM 2025.pdf](https://github.com/gcapde/eval_NotebookLM_URUCON2026/blob/main/Plantilla para informe - Actividad complementaria SAM 2025.pdf).
+* Lista de preguntas y videos asociados: [Lista de preguntas y videos asociados - Actividad complementaria SAM 2025.pdf](https://github.com/gcapde/eval_NotebookLM_URUCON2026/blob/main/Lista de preguntas y videos asociados - Actividad complementaria SAM 2025.pdf).
+* Carpeta con todos los reportes para cada una de las preguntas: [reports](https://github.com/gcapde/eval_NotebookLM_URUCON2026/blob/main/reports).
